@@ -1,1 +1,13 @@
-
+tests": [
+{
+"name": "Linux User Assignment",
+"setup": "",
+"run": "sudo bash tests/test_solution.sh",
+"input": "",
+"output": "ALL TESTS PASSED",
+"comparison": "included",
+"timeout": 10,
+"points": 100
+}
+]
+}
